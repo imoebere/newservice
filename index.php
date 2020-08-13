@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 <title>Welcome</title>
@@ -307,6 +307,7 @@ to provide up to date information at all times.
 				<div class="col-sm-6">
 					<p>Copyright &copy; - All rights reserved </p>
 				</div>
+login form
 				<div class="col-sm-6">
 					<img src="image/service/icon-payment-03.png" alt="logo" style="width:50px ">
 					<img src="image/service/icon-payment-02.png" alt="logo" style="width:50px">
