@@ -1,0 +1,61 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+a.btn.btn-lg.c-btn-track {
+  background-color: green;
+  color: white;
+}
+.heroTop img{
+  height: 70vh;
+}
+#serviceTop{
+  margin: 2em auto;
+}
+#serviceTop img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+#satisfactory{
+  margin: 2em auto;
+}
+#award{
+  background-image: url('../../image/service/banner-1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding:1em 1.5em;
+  margin-right: .5em;
+}
+#services{
+  background-color: #e0dddd42;
+  padding: 6em 0em;
+  transform: skewY(-4deg);
+  height: auto;
+}
+#services p,
+#services h1,
+#services h4{
+  transform: skewY(4deg);
+}
+#tracking{
+  margin: 2em auto;
+}
+.bg8{
+  margin: 2em auto;
+}
+#contact{
+  margin: 2em auto;
+}
+input{
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  #satisfactory {
+    display: inline-grid;
+    padding:1.5em 0px;
+  }
+}
